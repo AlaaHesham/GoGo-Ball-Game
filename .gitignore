@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Assets/Audio
+/Assets/Materials
+/Assets/TextMesh Pro
+/Library/Bee/CachedNodeOutput
+/Library/PackageCache
